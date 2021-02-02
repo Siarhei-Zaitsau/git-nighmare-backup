@@ -1,3 +1,10 @@
+
+*.db
+*.log
+
+target/
+bin/
+
 # Build and Release Folders
 bin-debug/
 bin-release/
